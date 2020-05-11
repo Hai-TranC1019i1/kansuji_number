@@ -1,2 +1,5 @@
 # kansuji_number
-Module kansuji convert kansuji number to western number and otherwise
+Kansuji convert kansuji number to western number and otherwise
+
+11000.to_kansuji # => '一万千'
+'一万千'.to_number # 11000
